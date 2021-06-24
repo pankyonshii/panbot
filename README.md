@@ -1,0 +1,2 @@
+# panbot
+personal discord bot
